@@ -1,3 +1,3 @@
-### Hi there 👋
+# nothing to see here
 
-You can find most of my work on https://git.sr.ht/~inferiormartin
+you can see my work over at [sourcehut] (https://sr.ht/~inferiormartin)
